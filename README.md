@@ -5,7 +5,9 @@ This project aims to classify news articles as fake or real using machine learni
 The dataset used in this project consists of news articles with the following columns:
 
 title: The title of the news article
+
 text: The main content of the news article
+
 label: The label indicating whether the news is fake or real
 
 # Model
@@ -16,7 +18,9 @@ Libraries Used: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 # Evaluation
 The model was evaluated using the following metrics:
 Accuracy: 93.37%
+
 Confusion Matrix
+
 Classification Report
 
 # Results
